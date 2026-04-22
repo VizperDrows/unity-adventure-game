@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: elfwo
+  m_Controller: {fileID: 9100000, guid: 635a8606a85138d40b1b72a897d2892d, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a8ca198a39fb9d245b065a69b48bb375, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fcb4168da0e8c8648b4654e62bb910f3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 66fbd402cf1a73b4ca5dba11f7121a18, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bd53781cfe0c7084190abfc6dc7616b6, type: 2}

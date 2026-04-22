@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: osoFrenzyOvController
+  m_Controller: {fileID: 9100000, guid: 5df877e7aeb8318419a1872f81f74728, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: f5285b3b10b073240923b49e14f15b10, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9b57c5f885b783b48accb456b99ca8bc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ab7b2cf509f251f41ba9ecff8fd4d433, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 29a1458895a8a4847a65de515ada5315, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fd27594b8db4b0b46894859ee2737b0e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b0a0ffb564826374da014681c29df1b8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: eb885aac904ff1d4ead1257c84d6faba, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b0a0ffb564826374da014681c29df1b8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ab10900f01236a14eacae33f5a357af8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b0a0ffb564826374da014681c29df1b8, type: 2}
