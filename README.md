@@ -37,6 +37,6 @@ Each character has unique abilities:
 
 # Demo
 <p>
-  <img src="docs/Screenshot1.png" width="45%" style="margin-right:10px;" />
-  <img src="docs/Screenshot2.png" width="45%" />
+  <img src="docs/Screenshot1.jpg" width="45%" style="margin-right:10px;" />
+  <img src="docs/Screenshot2.jpg" width="45%" />
 </p>
