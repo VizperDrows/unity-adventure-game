@@ -34,3 +34,9 @@ Each character has unique abilities:
   - Speed-based abilities
 - Elf
   - Standard movement-focused gameplay
+
+# Demo
+<p>
+  <img src="docs/Screenshot1.png" width="45%" style="margin-right:10px;" />
+  <img src="docs/Screenshot2.png" width="45%" />
+</p>
